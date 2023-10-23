@@ -1,0 +1,133 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 820px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 43px auto 0 395px;
+}
+
+.u-section-1 .u-text-2 {
+  line-height: 0.4;
+  margin: 50px auto 0 -70px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 625px;
+  margin: 0 640px 0 -70px;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 11px 30px 12px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 714px;
+  height: 576px;
+  margin: -592px -96px 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  margin: -59px auto 60px -42px;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 326px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 440px;
+  }
+
+  .u-section-1 .u-form-group-6 {
+    height: auto;
+    min-height: 58px;
+    margin: -71px 437px 60px 185px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 250px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 220px;
+  }
+
+  .u-section-1 .u-form-group-6 {
+    margin-right: 327px;
+    margin-left: 75px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 680px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 188px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-form-group-6 {
+    margin-right: 222px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 436px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 81px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 519px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 118px;
+  }
+
+  .u-section-1 .u-form-group-6 {
+    margin-right: 22px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 275px;
+  }
+}
